@@ -557,7 +557,7 @@ components:
         status:
           maximum: 600
           exclusiveMaximum: true
-          minimum: 100
+          minimum: 90
           type: integer
           format: int32
         id:
